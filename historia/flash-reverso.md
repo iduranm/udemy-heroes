@@ -1,3 +1,0 @@
-# Flash
-
-Flash normal
